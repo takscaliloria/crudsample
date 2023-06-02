@@ -1,5 +1,6 @@
 - install xampp 
 https://www.apachefriends.org/
+
 1.start apache
 2.start mysql
 
