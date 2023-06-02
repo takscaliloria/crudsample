@@ -1,8 +1,7 @@
-- install xampp 
-https://www.apachefriends.org/
-
-1.start apache
-2.start mysql
+- install xampp
+- https://www.apachefriends.org/
+- start apache
+- start mysql
 
 - create folder for the project
 
